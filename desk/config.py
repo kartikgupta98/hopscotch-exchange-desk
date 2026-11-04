@@ -1,3 +1,4 @@
+import os
 import dotenv
 from langchain_openai import ChatOpenAI
 
